@@ -1,0 +1,28 @@
+div {
+  background-color: red;
+  font-size: 32px;
+  color: white;
+}
+
+.odd-numbers {
+  background-color: #ffcccb; 
+  font-family: 'Verdana', sans-serif;
+  color: black;
+}
+
+#one {
+  background-color: transparent;
+  font-size: 36px;
+  color: blue;
+}
+
+.number-3 {
+  font-size: 24px;
+}
+
+#four {
+  background-color: #d1ffbd;
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+}
