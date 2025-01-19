@@ -50,8 +50,9 @@ section {
 
 .main-content {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
+  gap: 112px;
   background: #1f2937;
   color: #f9faf8;
 }
